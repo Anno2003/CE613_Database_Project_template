@@ -2,12 +2,15 @@
 title: Laporan Project
 nav_order: 1
 ---
+<!-- Comment HTML seperti ini tidak tampil di halaman web, 
+tapi bisa dhapus agar bersih. -->
 
-# Template Project CE613 Database System
+# Project CE613 Database System:
+<!-- silahkan beri sub-judul sendiri -->
 
 **Kelompok:** [Nama Kelompok]  
 **Organisasi/Bisnis:** [Nama]  
-**Dokumentasi aplikasi (setup & menjalankan):** [lihat halaman Aplikasi](aplikasi.md)
+[ **Dokumentasi aplikasi** ](aplikasi.md)
 
 ## Anggota Kelompok
  
@@ -19,76 +22,61 @@ nav_order: 1
 
 ## 1. Pendahuluan
 ### 1.1 Latar Belakang
-Latar belakang bisnis yang dipilih
+<!-- Penjelasan bisnis/organisasi apa yang dijadikan project -->
 
 ### 1.2 Rumusan Masalah
-Rumusan masalah
 
 ### 1.3 Tujuan
-Tujuan project
 
 ### 1.4 Scope
-
-**Termasuk dalam scope:**
-- aaa
-
-**Di luar scope (sengaja tidak dikerjakan):**
-- bbb
+<!-- list apa yang termasuk dan tidak termasuk kedalam project -->
 
 ## 2. Pengumpulan Data
 ### 2.1 Ringkasan Wawancara 
-Ringkasan proses wawncara, kapan dan dimana dilakukan, apa saja yang ditemukan,
-beserta dengan dokumentasinya.
+<!-- Ringkasan proses wawncara, kapan dan dimana dilakukan, apa saja yang ditemukan, -->
+<!-- beserta dengan dokumentasinya. -->
 
 ## 3. Perancangan
 ### 3.1 Business Rule
-Analisa dan rincian business rule yang ditemukan dari wawancara
+| No. | Business Rule | Implikasi ke Database |
+|---|---|---|
+| 1 | Satu anggota dapat meminjam maksimal 3 buku sekaligus. | Constraint jumlah pinjaman aktif per anggota (dengan trigger/check). |
+<!-- Business rule ditulis disini -->
+<!-- Analisa dan rincian business rule yang ditemukan dari wawancara -->
 
-### 3.2 ERD
-Entity Relationship Diagram beserta penjelasannya
-
-### 3.3 Skema dan Normalisasi
-Penjelasan umum implementasi database,
-Skema dan normalisasi yang digunakan pada database .
+### 3.2 Skema Database
+<!-- Entity Relationship Diagram beserta penjelasannya  -->
+<!-- Penjelasan implementasi database,  -->
+<!-- Normalisasi(kalau ada) yang digunakan pada database.  -->
 
 ## 4. Implementasi Database
 ### 4.1 DDL dan sample data 
-sertakan perintah ddl atau link ke file sql yang digunakan untuk membuat database,
-data sample harus fiktif & tidak mengandung informasi sensistif.
+<!-- sertakan snippet ddl atau link ke file sql yang digunakan untuk membuat database, -->
+<!-- data sample harus fiktif & tidak mengandung informasi sensistif. -->
 
 ### 4.2 Stored Procedures & Triggers
-Penjelasan stored procedure & trigger yang digunakan dalam database
+<!-- Penjelasan stored procedure & trigger yang digunakan dalam database -->
 
-### 4.3 Query dan Laporan Utama 
-Query penting yang mendukung kebutuhan Organisasi beserta contoh hasil.
+### 4.3 Query 
+<!-- Query penting yang mendukung kebutuhan Organisasi beserta contoh hasil. -->
 
 ### 4.4 Pengujian
-Skenario pengujian, bagaimana business rule diuji ke database yang sudah 
-diimplementasikan.
+<!-- Skenario pengujian, untuk business rule di database yang sudah diimplementasikan. -->
+| Skenario | Business Rule | Langkah/Query Uji | Hasil yang Diharapkan | Bukti Hasil Aktual |
+|---|---|---|---|---|
+| | 01 | | | |
 
-## 5. Aplikasi
+---
  
-Bagian ini RINGKAS. Instruksi instalasi dan menjalankan ada di halaman Aplikasi, jangan diulang di sini.
+## 5. Evaluasi 
  
-**Tech stack:**
+### 5.1 Kendala dan Penyelesaian
  
-**Arsitektur dan integrasi database:**
- 
-**Fitur utama aplikasi:**
- 
-Panduan instalasi dan penggunaan: [halaman Aplikasi](aplikasi.md)
+### 5.2 Keterbatasan dan Pengembangan Lanjutan
  
 ---
  
-## 6. Evaluasi dan Penutup
- 
-### 6.1 Kendala dan Pembelajaran
- 
-### 6.2 Keterbatasan dan Pengembangan Lanjutan
- 
----
- 
-## 7. Pembagian Tugas
+## 6. Pembagian Tugas
  
 | Anggota | Tanggung Jawab | 
 |---|---|
