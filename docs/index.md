@@ -31,7 +31,6 @@ tapi bisa dhapus agar bersih. -->
 <!-- list apa yang termasuk dan tidak termasuk kedalam project -->
 
 ## 2. Pengumpulan Data
-### 2.1 Ringkasan Wawancara 
 <!-- Ringkasan proses wawncara, kapan dan dimana dilakukan, apa saja yang ditemukan, -->
 <!-- beserta dengan dokumentasinya. -->
 
