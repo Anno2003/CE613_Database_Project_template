@@ -6,7 +6,7 @@ nav_order: 1
 tapi bisa dhapus agar bersih. -->
 
 <!-- silahkan beri nama project sendiri -->
-# Nama Project
+## Nama Project
 
 **Kelompok:** ...  
 **Organisasi/Bisnis:** ...  
@@ -61,9 +61,12 @@ tapi bisa dhapus agar bersih. -->
 
 ### 4.4 Pengujian
 <!-- Skenario pengujian, untuk business rule di database yang sudah diimplementasikan. -->
+
+
 | Skenario | Business Rule | Langkah/Query Uji | Hasil yang Diharapkan | Bukti Hasil Aktual |
-|---|---|---|---|---|
-| - | - | - | - | - |
+|----------|---------------|-------------------|-----------------------|--------------------|
+|          | 1             |                   |                       |                    |
+
 
 ---
  
