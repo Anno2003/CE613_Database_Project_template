@@ -3,10 +3,6 @@ title: Dokumentasi Aplikasi
 nav_order: 2
 ---
 
-# Dokumentasi Aplikasi
-
-[Kembali ke Laporan Project](index.md).
-
 ## 1. Ringkasan
 
 <!-- Penjelasan umum aplikasi, apa saja tech stacknya, arsitekturnya bagaimana -->

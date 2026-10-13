@@ -5,12 +5,11 @@ nav_order: 1
 <!-- Comment HTML seperti ini tidak tampil di halaman web, 
 tapi bisa dhapus agar bersih. -->
 
-# Project CE613 Database System:
-<!-- silahkan beri sub-judul sendiri -->
+<!-- silahkan beri nama project sendiri -->
+# Nama Project
 
-**Kelompok:** [Nama Kelompok]  
-**Organisasi/Bisnis:** [Nama]  
-[ **Dokumentasi aplikasi** ](aplikasi.md)
+**Kelompok:** ...  
+**Organisasi/Bisnis:** ...  
 
 ## Anggota Kelompok
  
@@ -64,7 +63,7 @@ tapi bisa dhapus agar bersih. -->
 <!-- Skenario pengujian, untuk business rule di database yang sudah diimplementasikan. -->
 | Skenario | Business Rule | Langkah/Query Uji | Hasil yang Diharapkan | Bukti Hasil Aktual |
 |---|---|---|---|---|
-| | 01 | | | |
+| - | - | - | - | - |
 
 ---
  
