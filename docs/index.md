@@ -38,8 +38,8 @@ tapi bisa dhapus agar bersih. -->
 ## 3. Perancangan
 ### 3.1 Business Rule
 | No. | Business Rule | Implikasi ke Database |
-|---|---|---|
-| 1 | Satu anggota dapat meminjam maksimal 3 buku sekaligus. | Constraint jumlah pinjaman aktif per anggota (dengan trigger/check). |
+|-----|---------------|-----------------------|
+| 1   | Satu anggota dapat meminjam maksimal 3 buku sekaligus. | Constraint jumlah pinjaman aktif per anggota (dengan trigger/check). |
 <!-- Business rule ditulis disini -->
 <!-- Analisa dan rincian business rule yang ditemukan dari wawancara -->
 
