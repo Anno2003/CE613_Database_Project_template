@@ -5,9 +5,6 @@ nav_order: 1
 <!-- Comment HTML seperti ini tidak tampil di halaman web, 
 tapi bisa dhapus agar bersih. -->
 
-<!-- silahkan beri nama project sendiri -->
-## Nama Project
-
 **Kelompok:** ...  
 **Organisasi/Bisnis:** ...  
 
