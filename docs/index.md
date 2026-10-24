@@ -44,6 +44,7 @@ tapi bisa dhapus agar bersih. -->
 <!-- Contoh rule baik: "Satu anggota maksimal meminjam 3 buku aktif." -->
 <!-- Kolom Implikasi menjelaskan BAGAIMANA rule diterapkan di database: -->
 <!-- constraint, trigger, unique key, dsb — bukan mengulang rule-nya. -->
+
 | No. | Business Rule | Implikasi ke Database |
 |-----|---------------|-----------------------|
 | 1   | Satu anggota dapat meminjam maksimal 3 buku sekaligus. | Constraint jumlah pinjaman aktif per anggota (dengan trigger/check). |
